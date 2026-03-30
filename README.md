@@ -1,6 +1,9 @@
 # d2l client credentials grant type authentication test
 Simple for dev purposes
 ## Steps
+* Required libraries
+
+  install.txt has a list of libraries (use venv)
 * Create private.key and public.pem within the same folder.
   
   ```openssl genpkey -algorithm RSA -out private.key -pkeyopt rsa_keygen_bits:2048```
