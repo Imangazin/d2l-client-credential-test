@@ -1,4 +1,4 @@
-# d2l client credentials hrant type authentication test
+# d2l client credentials grant type authentication test
 Simple for dev purposes
 ## Steps
 * Create private.key and public.pem within the same folder.
